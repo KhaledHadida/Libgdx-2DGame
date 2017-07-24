@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="71">
+ <tileset firstgid="1" source="minecraft.tsx"/>
+ <layer name="Background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1blBQ1EAA8FPXxyFAS6MozRjXherYAIF04D2fl3X39nj7Hq6rjunfj57OXs9e+Pc72cfZ59nN879dfZ99nP2y7nrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7Lrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7Lrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7Lrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7Lrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7Lrv2T9WHb9l6wfy67/kvVj2fVfsn4su/5L1o9l13/J+rHs+i9ZP5Zd/yXrx7L/AdYHpMk=
+  </data>
+ </layer>
+ <layer name="graphics" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3EFuwjAQRmE4QgsHK3CwAgcrcKOOlFW8SSZ240f6PmkWkWaBFMs/tuzsdpIkSZIk5XxEfUYdoo5z+vfRH3WIOu7/9rf9R19Rp6hz1GVOf7yDU9Q56uL7aO476hp1i7rP6Y93cI26Rd19H839RD2inlGvOf3xDh5Rz6iX76O5dH4k+5WTzo9kv3LS+ZHsV046Pyb6nc/qtM4P57M6rfPD+axO6/zIzn8aMz9YzA8W84PF/GBpnR+q4/4Vi/tXLO5fsZgfLOYHi/nBYn6wmB8s5geL+cFifrCYHyzZ87hlf5knS5/NpUH2PG7ZX+bJ0mdzaZA9j1v2l3my9NlcGmTP45b9ZZ4sfTaXJOm9eP+MxftnLN4/Y/H+GYv7FCzuU7C4T8HiPgXL5P6565NVTe6fuz5Z1eT+ueuTVU3un7s+QXF9wuL6hMX1CYvrExbzg8X8YDE/WMwPFvODxfxgMT9YzA8W84PF/GAxP1icr1icr8Z6j0/nq7He49P/u2O9x2ftfdqt6T0+a+/Tbk3v8VZ7n3Zreo+32vu0W7P18fZutj7e1lb9vQ/PMzdV/b0PzzM3Vf29D88zN1X9vQ/PMzfVe/2gsd7rB425fmBx/cBifrCYHyzmB4v5wWJ+sJgfLOYHi/nBYn6wmB8s5gfLGvnxC87MU+I=
+  </data>
+ </layer>
+ <objectgroup name="wall">
+  <object id="3" x="240" y="144" width="63.3333" height="448"/>
+  <object id="4" x="431.875" y="207.333" width="63.3333" height="384.333"/>
+  <object id="10" x="1200" y="1344.67" width="64" height="255.333"/>
+  <object id="11" x="1263.33" y="1280" width="192.667" height="64"/>
+  <object id="13" x="1456" y="1152" width="64" height="128"/>
+  <object id="16" x="560" y="256" width="64" height="128"/>
+  <object id="17" x="496" y="592" width="352" height="64"/>
+  <object id="20" x="240" y="768.667" width="64" height="61.3333"/>
+  <object id="22" x="304" y="832" width="62.6667" height="64"/>
+  <object id="25" x="368" y="896" width="64" height="302"/>
+  <object id="26" x="432" y="1200" width="192" height="64"/>
+ </objectgroup>
+ <objectgroup name="logs">
+  <object id="31" x="240" y="592" width="64" height="64"/>
+  <object id="37" x="240" y="704" width="64" height="64"/>
+  <object id="38" x="240" y="832" width="64" height="64"/>
+  <object id="39" x="368" y="832" width="64" height="64"/>
+  <object id="41" x="368" y="1200" width="64" height="64"/>
+  <object id="42" x="1200" y="1280" width="64" height="64"/>
+  <object id="43" x="1456" y="1280" width="64" height="64"/>
+  <object id="46" x="431.333" y="142" width="64" height="64"/>
+  <object id="56" x="432" y="592" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="ground"/>
+</map>

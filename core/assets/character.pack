@@ -1,0 +1,109 @@
+
+character.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 10
+  size: 523, 550
+  orig: 523, 550
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 526, 1
+  size: 486, 559
+  orig: 486, 559
+  offset: 0, 0
+  index: -1
+
+character2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+front2
+  rotate: false
+  xy: 1, 1
+  size: 478, 559
+  orig: 478, 559
+  offset: 0, 0
+  index: -1
+back4
+  rotate: false
+  xy: 481, 1
+  size: 461, 559
+  orig: 461, 559
+  offset: 0, 0
+  index: -1
+
+character3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back1
+  rotate: false
+  xy: 1, 1
+  size: 448, 573
+  orig: 448, 573
+  offset: 0, 0
+  index: -1
+front1
+  rotate: false
+  xy: 451, 15
+  size: 457, 559
+  orig: 457, 559
+  offset: 0, 0
+  index: -1
+front4
+  rotate: false
+  xy: 451, 15
+  size: 457, 559
+  orig: 457, 559
+  offset: 0, 0
+  index: -1
+
+character4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+front3
+  rotate: false
+  xy: 1, 1
+  size: 439, 559
+  orig: 439, 559
+  offset: 0, 0
+  index: -1
+back3
+  rotate: false
+  xy: 442, 1
+  size: 429, 559
+  orig: 429, 559
+  offset: 0, 0
+  index: -1
+
+character5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+2
+  rotate: false
+  xy: 1, 33
+  size: 408, 550
+  orig: 408, 550
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 33
+  size: 408, 550
+  orig: 408, 550
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 411, 1
+  size: 362, 582
+  orig: 362, 582
+  offset: 0, 0
+  index: -1

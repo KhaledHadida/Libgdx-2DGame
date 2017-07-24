@@ -1,0 +1,26 @@
+
+Zombie_Grind.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+character
+  rotate: false
+  xy: 1, 1
+  size: 576, 384
+  orig: 576, 384
+  offset: 0, 0
+  index: -1
+character1
+  rotate: false
+  xy: 579, 193
+  size: 147, 192
+  orig: 147, 192
+  offset: 0, 0
+  index: -1
+32x32-bat-sprite
+  rotate: false
+  xy: 579, 63
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
